@@ -1,6 +1,6 @@
 export const CLUB_INFO = {
   name: 'Arena Hub Esportes',
-  address: 'Rua das Palmeiras, 123, São Paulo, SP',
+  address: 'Rua das Palmeiras, 1192, São Paulo, SP',
   hours: {
     weekdays: '06:00 - 22:00',
     weekends: '08:00 - 18:00',
